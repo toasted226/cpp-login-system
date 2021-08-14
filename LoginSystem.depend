@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1628926511 source:/home/keagan/Documents/C++ Projects/LoginSystem/accountCreator.cpp
+	<iostream>
+	<vector>
+	"loginmanager.h"
+	"fileio.h"
+
+1628939712 /home/keagan/Documents/C++ Projects/LoginSystem/loginmanager.h
+	<iostream>
+	<vector>
+
+1628934830 source:/home/keagan/Documents/C++ Projects/LoginSystem/main.cpp
+	<iostream>
+	"loginmanager.h"
+
+1628925599 /home/keagan/Documents/C++ Projects/LoginSystem/fileio.h
+	<iostream>
+	<vector>
+
+1628926604 source:/home/keagan/Documents/C++ Projects/LoginSystem/fileio.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"fileio.h"
+
